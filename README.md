@@ -29,7 +29,7 @@
 </p>
 
 
-## Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
+## Click  [HERE](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
 
 ## Check the Demo 👇
 
