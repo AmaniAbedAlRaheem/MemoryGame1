@@ -34,6 +34,8 @@
 
 ### Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
 
+### Check the Demo 👇
+
 ![Demo](images/MEMORY.gif)
 
 
