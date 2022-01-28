@@ -32,9 +32,9 @@
 
 
 
-### Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
+## Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
 
-### Check the Demo 👇
+## Check the Demo 👇
 
 ![Demo](images/MEMORY.gif)
 
