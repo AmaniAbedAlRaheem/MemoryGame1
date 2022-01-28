@@ -4,7 +4,7 @@
 
 ## ✅ Name 
 
-* Memory Game      Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
+* Memory Game
 
 ## ❓ Game Logic 
 
@@ -29,7 +29,7 @@
 </p>
 
 
-
+## Click  [Run Game](https://amaniabedalraheem.github.io/MemoryGame1/) to Play
 
 ## Check the Demo 👇
 
