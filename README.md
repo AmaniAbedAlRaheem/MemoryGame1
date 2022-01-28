@@ -16,6 +16,7 @@ The memory game is game of lights and sounds in which players must repeat random
 * View systems sequence to follow
 * click on the buttons in the right order 
 * keep on following the systems sequence and win level by level
+* Refresh the page to restart the game
 
 
 
