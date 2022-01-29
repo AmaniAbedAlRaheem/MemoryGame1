@@ -19,6 +19,10 @@
 * Refresh the page to restart the game
 
 
+## 🚀 Script is written in:  
+ -  (```jquery_solution.js```)
+
+
 ## 	🖥️ Programming Languages & Libraries Used 	🖥️
 
 <p>
